@@ -1,4 +1,3 @@
-Final work at first part of education
 
 # `Итоговая аттестация. Практическое задание`
 
